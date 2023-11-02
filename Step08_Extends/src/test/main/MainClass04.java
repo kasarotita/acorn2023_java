@@ -1,7 +1,7 @@
-package text.main;
+package test.main;
 
-import text.mypac.HandPhone;
-import text.mypac.Phone;
+import test.mypac.HandPhone;
+import test.mypac.Phone;
 
 public class MainClass04 {
 	public static void main(String[] args) {

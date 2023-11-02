@@ -1,8 +1,8 @@
-package text.main;
+package test.main;
 
 import java.util.Scanner;
 
-import text.mypac.Phone;
+import test.mypac.Phone;
 
 /*
  *  java 에서 사용하는 모든 data 는 Object type 변수나 필드에 담을 수 있다.

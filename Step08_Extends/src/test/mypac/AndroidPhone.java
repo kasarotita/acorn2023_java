@@ -1,4 +1,4 @@
-package text.mypac;
+package test.mypac;
 
 public class AndroidPhone extends HandPhone{
 	//생성자

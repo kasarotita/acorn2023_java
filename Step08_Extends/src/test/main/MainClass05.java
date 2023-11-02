@@ -1,6 +1,6 @@
-package text.main;
+package test.main;
 
-import text.mypac.AndroidPhone;
+import test.mypac.AndroidPhone;
 
 public class MainClass05 {
 	public static void main(String[] args) {

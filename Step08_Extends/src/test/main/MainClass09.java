@@ -1,4 +1,4 @@
-package text.main;
+package test.main;
 
 import test.auto.Engine;
 import test.auto.SportsCar;

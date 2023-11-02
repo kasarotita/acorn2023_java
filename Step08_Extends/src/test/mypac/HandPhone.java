@@ -1,4 +1,4 @@
-package text.mypac;
+package test.mypac;
 
 /* 
  * 이미 존재하는 Phone 클래스를 extends(상속) 받아서 HandPhone 클래스 정의하기
